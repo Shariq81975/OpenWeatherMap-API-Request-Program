@@ -15,10 +15,11 @@ Prerequisites
 
 ## Usage
 
-    Open a terminal or command prompt and navigate to the directory where the program is saved.
-    Type python openweathermap.py to run the program.
-    When prompted, enter the name of the city you want to check the weather for.
-    The program will send a request to the OpenWeatherMap API and print out the temperature, humidity, and wind speed for the city you entered.
+    * Open a terminal or command prompt and navigate to the directory where the program is saved.
+    * Type python openweathermap.py to run the program.
+    * When prompted, enter the name of the city you want to check the weather for.
+    * The program will send a request to the OpenWeatherMap API and print out the temperature, humidity
+      and wind speed for the city you entered.
 
 ## License
 
